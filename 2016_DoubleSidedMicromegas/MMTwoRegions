@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Giomataris:1995fq}
+Y.~Giomataris, P.~Rebourgeard, J.~Robert, G.~Charpak, {MICROMEGAS: A High
+  granularity position sensitive gaseous detector for high particle flux
+  environments}, Nucl.Instrum.Meth. A376 (1996) 29--35.
+\newblock \href {http://dx.doi.org/10.1016/0168-9002(96)00175-1}
+  {\path{doi:10.1016/0168-9002(96)00175-1}}.
+
+\bibitem{Giomataris:2004aa}
+I.~Giomataris, R.~De~Oliveira, S.~Andriamonje, S.~Aune, G.~Charpak, et~al.,
+  {Micromegas in a bulk}, Nucl.Instrum.Meth. A560 (2006) 405--408.
+\newblock \href {http://arxiv.org/abs/physics/0501003}
+  {\path{arXiv:physics/0501003}}, \href
+  {http://dx.doi.org/10.1016/j.nima.2005.12.222}
+  {\path{doi:10.1016/j.nima.2005.12.222}}.
+
+\bibitem{Alexopoulos:2009zza}
+T.~Alexopoulos, A.~Altintas, M.~Alviggi, M.~Arik, S.~Cetin, et~al., {The ATLAS
+  muon Micromegas \& project: Towards large-size chambers for the s-LHC}, JINST
+  4 (2009) P12015.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/4/12/P12015}
+  {\path{doi:10.1088/1748-0221/4/12/P12015}}.
+
+\bibitem{Wotschack:2013ola}
+J.~Wotschack, {The development of large-area Micromegas detectors for the ATLAS
+  upgrade}, Mod.Phys.Lett. A28 (2013) 1340020.
+\newblock \href {http://dx.doi.org/10.1142/S0217732313400208}
+  {\path{doi:10.1142/S0217732313400208}}.
+
+\bibitem{Chefdeville:2011zz}
+M.~Chefdeville, {RD51, a world-wide collaboration for the development of micro
+  pattern gaseous detectors}, J.Phys.Conf.Ser. 309 (2011) 012017.
+\newblock \href {http://dx.doi.org/10.1088/1742-6596/309/1/012017}
+  {\path{doi:10.1088/1742-6596/309/1/012017}}.
+
+\bibitem{Alexopoulos:2010zz}
+T.~Alexopoulos, A.~Altintas, M.~Alviggi, M.~Arik, S.~Cetin, et~al.,
+  {Development of large size Micromegas detector for the upgrade of the ATLAS
+  muon system}, Nucl.Instrum.Meth. A617 (2010) 161--165.
+\newblock \href {http://dx.doi.org/10.1016/j.nima.2009.06.113}
+  {\path{doi:10.1016/j.nima.2009.06.113}}.
+
+\bibitem{Alexopoulos:2011zz}
+T.~Alexopoulos, J.~Burnens, R.~de~Oliveira, G.~Glonti, O.~Pizzirusso, et~al.,
+  {A spark-resistant bulk-micromegas chamber for high-rate applications},
+  Nucl.Instrum.Meth. A640 (2011) 110--118.
+\newblock \href {http://dx.doi.org/10.1016/j.nima.2011.03.025}
+  {\path{doi:10.1016/j.nima.2011.03.025}}.
+
+\bibitem{Dris:2014qpa}
+M.~Dris, T.~Alexopoulos, {Signal Formation in Various Detectors}\href
+  {http://arxiv.org/abs/1406.3217} {\path{arXiv:1406.3217}}.
+
+\bibitem{Byszewski:2012zz}
+M.~Byszewski, J.~Wotschack, {Resistive-strips micromegas detectors with
+  two-dimensional readout}, JINST 7 (2012) C02060.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/7/02/C02060}
+  {\path{doi:10.1088/1748-0221/7/02/C02060}}.
+
+\bibitem{Martoiu:2013aca}
+S.~Martoiu, H.~Muller, A.~Tarazona, J.~Toledo, {Development of the scalable
+  readout system for micro-pattern gas detectors and other applications}, JINST
+  8 (2013) C03015.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/8/03/C03015}
+  {\path{doi:10.1088/1748-0221/8/03/C03015}}.
+
+\bibitem{Martoiu:2011zja}
+S.~Martoiu, H.~Muller, J.~Toledo, {Front-end electronics for the Scalable
+  Readout System of RD51}, IEEE Nucl.Sci.Symp.Conf.Rec. 2011 (2011) 2036--2038.
+\newblock \href {http://dx.doi.org/10.1109/NSSMIC.2011.6154414}
+  {\path{doi:10.1109/NSSMIC.2011.6154414}}.
+
+\bibitem{APVJones}
+L.Jones, et~al., {The APV25 deep sub Micron readout chip for CMS channels
+  detectors}, Proceedings of 5th workshop on Chips electronics for LHC
+  experiments CERN/LHCC/99-09 (1999) 162--166.
+\newblock \href {http://dx.doi.org/10.1088/1748-0221/8/03/C03015}
+  {\path{doi:10.1088/1748-0221/8/03/C03015}}.
+
+\bibitem{APVCMS}
+M.~J. French, L.~L. Jones, Q.~R. Morrissey, A.~Neviani, R.~Turchetta, et~al.,
+  {Design and results from the APV25, a deep sub-micron CMOS front-end chip for
+  the CMS tracker}, Nucl. Instrum. Methods Phys. Res., A 466 (2001) 359--365.
+\newblock \href {http://dx.doi.org/10.1016/S0168-9002(01)00589-7}
+  {\path{doi:10.1016/S0168-9002(01)00589-7}}.
+
+\end{thebibliography}

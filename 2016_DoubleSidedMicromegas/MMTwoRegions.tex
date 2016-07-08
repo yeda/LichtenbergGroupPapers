@@ -1,0 +1,76 @@
+\documentclass[a4paper,11pt]{article}
+\pdfoutput=1 % if your are submitting a pdflatex (i.e. if you have
+             % images in pdf, png or jpg format)
+
+\usepackage{jheppub} % for details on the use of the package, please
+\usepackage{subfigure}
+
+\usepackage[T1]{fontenc} % if needed
+
+
+\def\GeV{\ifmmode {\mathrm{\ Ge\kern -0.1em V}}\else \textrm{Ge\kern -0.1em V}\fi}%
+
+\title{\boldmath Design, Construction and Performance Tests of a Prototype Micromegas Chamber with Two Readout Layers in a Common Gas Volume}
+
+\author[a]{Bernard Brickwedde}
+\author[a]{Andreas Dulder}
+\author[a]{Matthias Schott}
+\affiliation[a]{Johannes Gutenberg-University, Mainz, Germany}
+
+% e-mail addresses: one for each author, in the same order as the authors
+\emailAdd{matthias.schott@cern.ch}
+\emailAdd{stefano.camarda@cern.ch}
+
+\abstract{
+In recent years, micropattern gaseous detectors received significant attention in the development of precision and cost-effective tracking detectors in nuclear and high energy physics experiments. The important task for these detectors is not only a precise position measurement, but also the determination of the incoming angle of traversing particles in high rate environments, present for example in the forward region of LHC detectors. One possible realization, using a single Micromegas readout layer, is the so-called Micro-TPC method. However, its angle resolution is very limited, in particular for perpendicular incident beams. A pair of two MicroMegas detectors would allow for a precise angle measurement, however require a relatively large volume.
+
+In this paper, the design and the performance of a prototype detector based on Micromegas technology with two detection layers in a common gas volume will be discussed, suited for small spatial volumes in high rate environments at LHC detectors. Each detection layer has an active area of 9 x 9 cm$^2$ with a two-dimensional strip readout and is separated by a common gas region with a height of 14 mm. An additional mesh working as an cathode is placed in the middle of the common gas volume separating it into two individual cells. This setup allows for a precise angle reconstruction of incoming particles with a precision of 0.5$^\circ$ using a detector with reduced material budget, compared to current detector designs. In addition, we present first results of performance studies on the prototype detectors based on cosmic muon measurements at the cosmic ray measurement facility at the University of Mainz. It should be noted that this design reduces multiple scattering with makes the detector also suitable for the measurement of low energy beam experiments.
+}
+
+ 
+\begin{document}
+
+\maketitle
+\flushbottom
+\newpage
+
+\section{\label{Sec:Intro}Introduction}
+
+
+
+\section{\label{Sec:Detector}Detector Layout and Construction}
+
+
+\section{\label{Sec:Simulation}Simulation}
+
+\subsection{Geant4 and Garfield Simulations}
+
+\subsection{Look-Up Table Approach}
+
+\subsection{Expected Performance}
+
+
+
+\section{\label{Sec:Efficiency}Performance Measurement}
+
+\subsection{Signal Characteristics}
+
+\subsection{Efficiency Measurements}
+
+\subsection{Angle Resolution}
+
+\subsection{Comparison to Simulation}
+
+
+
+\section{\label{Sec:Summary}Summary and Conclusion}
+
+
+\section*{Acknowledgements}
+
+We would like to acknowledge the close collaboration with XXX. This work is supported by the Volkswagen Foundation and the German Research Foundation (DFG).
+
+\bibliography{MMTwoRegions}
+
+\end{document}
+\endinput
