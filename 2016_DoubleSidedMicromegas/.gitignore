@@ -1,0 +1,13 @@
+*.out
+*.spl
+*.log
+*.out
+*.aux
+*.toc
+*.pdf
+
+!.gitignore
+
+
+
+
